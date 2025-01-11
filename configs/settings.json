@@ -1,0 +1,8 @@
+{
+    "_comment1": "Bot Settings",
+    "id": [],
+    "api_key": "",
+    "parse_mode": "HTML",
+    "_comment2": "Debugging/Logging Settings",
+    "enable_debugging": 1
+  }
